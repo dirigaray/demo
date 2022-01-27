@@ -1,7 +1,17 @@
 {
-    "user" : {
-        "id": 1, 
-        "firstName": "Damian",
-        "lastName": "Irigaray"
+  "data": {
+    "projectList": {
+      "items": [
+        {
+          "title": "JLP DAM & Workflows"
+        },
+        {
+          "title": "Lubricants Redesign"
+        },
+        {
+          "title": "Viking Cruises 6.4 Upgrade"
+        }
+      ]
     }
+  }
 }
